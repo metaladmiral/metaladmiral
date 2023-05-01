@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metaladmiral
 - 📫 How to reach me - Mail: myprakhar96@gmail.com
-- My skills include - PHP, Python, JS, HTML/CSS, Mysql.
+- My skills include - PHP, Python, Javascript, HTML/CSS, Advanced MYSQL , Embedded C, Socket Programming, Multi-threaded apps, Google APIs
 
 <!---
 metaladmiral/metaladmiral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
