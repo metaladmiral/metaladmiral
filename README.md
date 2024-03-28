@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metaladmiral
 - 📫 How to reach me - Mail: myprakhar96@gmail.com
-- My skills include - PHP (Core and Laravel), Python, Javascript, HTML/CSS, Advanced MySQL , Embedded C, Socket Programming, Multi-threaded apps, Google APIs
+- My skills include - Typescript, PHP (Core and Laravel), Python, Javascript, HTML/CSS, Advanced MySQL , Embedded C, Socket Programming, Multi-threaded apps, Google APIs
 
 [![](https://visitcount.itsvg.in/api?id=metaladmiral&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
