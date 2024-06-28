@@ -3,7 +3,10 @@
 - My skills include - 
 Typescript, 
 PHP (Core and Laravel), 
-Python, Javascript, 
+RabbitMQ,
+Redis,
+Python,
+Javascript, 
 MySQL ,
 Embedded C,
 Google APIs,
