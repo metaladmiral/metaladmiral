@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @metaladmiral
-- 📫 How to reach me - Mail: myprakhar96@gmail.com
+- 📫 How to reach me - Mail: prakhars.dev@gmail.com
 - My skills include - 
 Typescript, 
 PHP (Core and Laravel), 
